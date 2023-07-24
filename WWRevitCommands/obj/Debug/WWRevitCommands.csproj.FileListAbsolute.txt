@@ -1,0 +1,7 @@
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\obj\Debug\WWRevitCommands.csproj.AssemblyReference.cache
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\obj\Debug\WWRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\bin\Debug\WWRevitCommands.addin
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\bin\Debug\WWRevitCommands.dll
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\bin\Debug\WWRevitCommands.pdb
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\obj\Debug\WWRevitCommands.dll
+C:\Users\shahe\source\repos\WWRevitCommands\WWRevitCommands\obj\Debug\WWRevitCommands.pdb

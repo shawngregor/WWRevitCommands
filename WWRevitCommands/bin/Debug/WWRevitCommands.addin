@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Import Warning App</Name>
+    <Assembly>WWRevitCommands.dll</Assembly>
+    <AddInId>B2442281-8B8F-42F8-A838-8B19ADF0C79A</AddInId>
+    <FullClassName>WWRevitCommands.ImportWarningCommand</FullClassName>
+    <VendorId>Shahe</VendorId>
+    <VendorDescription>@shahe.gregorian@westonwilliamson.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
